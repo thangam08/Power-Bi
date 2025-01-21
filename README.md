@@ -10,5 +10,4 @@
 😄 Pronouns: She/Her.
 
 ⚡ Fun fact: I can turn raw numbers into insightful stories, and I love exploring datasets to uncover hidden trends!
-
     This files are my analysis documents using Power bi 
